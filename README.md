@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alfa06N
-- 👀 I’m interested in Python programming
-- 🌱 I’m currently learning Data Analyst
+- 👀 I’m interested in Python, HTML, Css and Javascript
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
